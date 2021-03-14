@@ -1,0 +1,21 @@
+int pump,valve,Motor1,Motor2,Motor3,Motor4,Motor5
+
+Void setup(){
+pump=2
+pinMode(2,OUTPUT);
+}
+Void loop(){
+digitalWrite(2,HIGH);
+delay(1000);
+digitalWrite(2,LOW);
+} 
+Void setup(){
+valve=3
+pinMode(3,OUTPUT);
+}
+Void loop(){
+digitalWrite(3,HIGH):
+delay(2000);
+digitalWrite(3,LOW);
+}
+

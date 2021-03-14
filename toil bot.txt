@@ -14,8 +14,57 @@ valve=3
 pinMode(3,OUTPUT);
 }
 Void loop(){
-digitalWrite(3,HIGH):
+digitalWrite(3,HIGH);
 delay(2000);
 digitalWrite(3,LOW);
 }
+Void setup(){
+Motor1 = 4
+pinMode(4,OUTPUT);
+}
+Void loop(){
+digitalWrite(4,HIGH);
+delay(2000);
+digitalWrite(4,LOW);
+}
+Void setup(){
+Motor2 = 5
+pinMode(5,OUTPUT);
+}
+Void loop(){
+digitalWrite(5,HIGH);
+delay(2000);
+digitalWrite(5,LOW);
+}
+Void setup(){
+Motor3 = 6
+pinMode(6,HIGH);
+}
+Void loop(){
+digitalWrite(6,HIGH);
+delay(1000);
+digitalWrite(6,LOW);
+}
+Void setup(){
+Motor4 = 7
+pinMode(7,OUTPUT);
+}
+Void loop(){
+digitalWrite(7,HIGH);
+delay(2000);
+digitalWrite(7,LOW);
+}
+Void setup(){
+Motor5 = 8 
+pinMode(8,OUTPUT);
+}
+Void loop(){
+digitalWrite(8,HIGH);
+delay(1000);
+digitalWrite(8,LOW);
+}
+
+
+
+
 
